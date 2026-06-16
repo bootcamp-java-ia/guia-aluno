@@ -83,12 +83,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/ArrayListExample.java`](./examples/ArrayListExample.java)
 - [`examples/HashMapExample.java`](./examples/HashMapExample.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 05: [`./reviews/review-week04.csv`](./reviews/review-week04.csv)
-
----
 
 ## ✅ Checklist de Entrega
 - [ ] Produtos armazenados em coleção

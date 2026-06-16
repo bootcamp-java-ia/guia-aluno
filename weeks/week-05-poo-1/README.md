@@ -86,12 +86,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/Produto.java`](./examples/Produto.java)
 - [`examples/Main.java`](./examples/Main.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 06: [`./reviews/review-week05.csv`](./reviews/review-week05.csv)
-
----
 
 ## ✅ Checklist de Entrega
 - [ ] Classe `Produto` criada com atributos privados

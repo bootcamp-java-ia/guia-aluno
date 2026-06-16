@@ -106,10 +106,3 @@ Cada squad apresenta:
 5. Próximos passos (opcional)
 
 📌 **Critério principal:** clareza, funcionamento e aprendizado real.
-
----
-
-## 📝 Revisão da Semana
-Quiz final consolidado (opcional, autoavaliação):
-[`./reviews/review-week12.csv`](./reviews/review-week12.csv)
-

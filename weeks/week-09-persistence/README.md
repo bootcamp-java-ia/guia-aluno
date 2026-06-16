@@ -84,13 +84,6 @@ Material completo em [`./references.md`](./references.md).
 ## 📁 Exemplos
 - [`examples/FileWriterExample.java`](./examples/FileWriterExample.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 10: [`./reviews/review-week09.csv`](./reviews/review-week09.csv)
-
----
-
 ## ✅ Checklist de Entrega
 - [ ] Dados salvos ao sair
 - [ ] Dados carregados ao iniciar

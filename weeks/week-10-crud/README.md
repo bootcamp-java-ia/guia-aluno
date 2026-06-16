@@ -93,12 +93,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/ProdutoRepository.java`](./examples/ProdutoRepository.java)
 - [`examples/Main.java`](./examples/Main.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 11: [`./reviews/review-week10.csv`](./reviews/review-week10.csv)
-
----
 
 ## ✅ Checklist de Entrega
 - [ ] Repositório com 4 operações

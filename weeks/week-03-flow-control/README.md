@@ -87,12 +87,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/IfElseExample.java`](./examples/IfElseExample.java)
 - [`examples/LoopExample.java`](./examples/LoopExample.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 04: [`./reviews/review-week03.csv`](./reviews/review-week03.csv)
-
----
 
 ## ✅ Checklist de Entrega
 - [ ] Fluxo com decisão funciona

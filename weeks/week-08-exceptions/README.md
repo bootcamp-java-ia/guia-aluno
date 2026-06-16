@@ -88,12 +88,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/ExceptionExample.java`](./examples/ExceptionExample.java)
 - [`examples/ProdutoNaoEncontradoException.java`](./examples/ProdutoNaoEncontradoException.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 09: [`./reviews/review-week08.csv`](./reviews/review-week08.csv)
-
----
 
 ## ✅ Checklist de Entrega
 - [ ] 3 pontos de falha mapeados

@@ -91,13 +91,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/ApiApp.java`](./examples/ApiApp.java)
 - [`examples/Produto.java`](./examples/Produto.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 12: [`./reviews/review-week11.csv`](./reviews/review-week11.csv)
-
----
-
 ## ✅ Checklist de Entrega
 - [ ] Servidor sobe localmente
 - [ ] GET retorna produtos como JSON

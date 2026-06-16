@@ -86,12 +86,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/Gerente.java`](./examples/Gerente.java)
 - [`examples/Main.java`](./examples/Main.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 07: [`./reviews/review-week06.csv`](./reviews/review-week06.csv)
-
----
 
 ## ✅ Checklist de Entrega
 - [ ] Uma hierarquia OU uma interface no projeto

@@ -94,12 +94,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/BadExample.java`](./examples/BadExample.java)
 - [`examples/GoodExample.java`](./examples/GoodExample.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 08: [`./reviews/review-week07.csv`](./reviews/review-week07.csv)
-
----
 
 ## ✅ Checklist de Entrega
 - [ ] 3 melhorias identificadas
