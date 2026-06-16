@@ -88,13 +88,6 @@ Material completo em [`./references.md`](./references.md).
 - [`examples/VariablesExample.java`](./examples/VariablesExample.java)
 - [`examples/ScannerExample.java`](./examples/ScannerExample.java)
 
----
-
-## 📝 Revisão da Semana
-Aplicada no início da semana 03: [`./reviews/review-week02.csv`](./reviews/review-week02.csv)
-
----
-
 ## ✅ Checklist de Entrega
 - [ ] Programa compila e roda
 - [ ] Pelo menos 4 tipos diferentes usados
