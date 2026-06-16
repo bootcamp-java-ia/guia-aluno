@@ -96,16 +96,6 @@ Material completo em [`./references.md`](./references.md).
 ## 📁 Exemplos
 - [`examples/HelloWorld.java`](./examples/HelloWorld.java) — o menor programa Java possível.
 
----
-
-## 📝 Revisão da Semana
-Não há revisão **desta** semana (é a primeira). A partir da semana 02,
-toda aula começa com o quiz da semana anterior.
-
-Quiz desta semana (aplicado no início da semana 02):
-[`./reviews/review-week01.csv`](./reviews/review-week01.csv)
-
----
 
 ## ✅ Checklist de Entrega
 - [ ] Organização criada no GitHub
